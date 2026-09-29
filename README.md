@@ -36,6 +36,7 @@ Engineer Resolves Incident
 Resolution Stored in Hindsight
        ↓
 Future Incidents Can Reuse This Experience
+```
 ### Recall
 
 When a new incident is submitted, IncidentIQ searches Hindsight for relevant previous incidents.
